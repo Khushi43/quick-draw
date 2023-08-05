@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(162, 112, 209);
+}
+
+#score{
+    font-size:20px;
+    margin-left:500px;
+}
+
+#time{
+    font-size:15;
+    float:right;
+    margin-right:20px;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(55, 55, 156);
+    background-color:grey;
+
+}
+
+#sketch_name{
+color:aquamarine;
+}
+
+#show_sketch{
+    float:right;
+
+}
+
+canvas{
+    border:5px solid white;
+    margin-top:150px;
+    border-radius:20px;
+}
+
+p,span{
+    padding: top 10px;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+}
